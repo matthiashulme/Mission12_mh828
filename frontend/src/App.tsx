@@ -355,6 +355,7 @@ function App() {
   return (
     <div>
       <Heading/>
+      <Subheader/>
       <TeamList/>
     </div>
   );
@@ -365,5 +366,9 @@ function Heading() {
   return(<div className="App"><h1>March Madness Teams:</h1></div>);
 }
 
+// Function for Footer
+function Subheader() {
+  return(<div className="App"><h2>We've got some good picks this year!</h2><br/></div>);
+}
 
 export default App;
