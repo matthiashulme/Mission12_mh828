@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvZkybIrpHYl0U1o/6uVEsNLkoV+2PmVJxy1PNHl3tHFUpe0bu68UQxxvHB5y6gGkODa2St0MYHTG0WUXXUgDA==",
+  "success": true,
+  "projectFilePath": "/Users/matthiashulme/Documents/Visual Studio Code/IS413/Mission12_mh828/backend/Mission12_mh828/Mission12_mh828.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthiashulme/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/matthiashulme/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/matthiashulme/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/matthiashulme/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/matthiashulme/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/matthiashulme/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
